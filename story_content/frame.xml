@@ -6,7 +6,6 @@
     <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
     <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
     <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="pxabsnfns00000000001" font="Open Sans" controllayout="pxabsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="ICT_SINAWANG_FINAL" />
+              <option name="title_text" value="Eduventure" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -36,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="none" />
+              <option name="time_format" value="" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -201,29 +200,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="pxabsnfns00000000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="true" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1310,83 +1286,41 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6I1GUPMyzd3" displaytext="Menu" expand="true" type="slide">
+        <slidelink slideid="_player.67girV5TAwT" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6I1GUPMyzd3.5m4JEWIoG6r" displaytext="Judul" expand="false" type="slide" />
-            <slidelink slideid="_player.6I1GUPMyzd3.6SAzt060OSz" displaytext="Nama" expand="false" type="slide" />
-            <slidelink slideid="_player.6I1GUPMyzd3.6A4T7Tmo3lk" displaytext="Menu utama" expand="false" type="slide" />
-            <slidelink slideid="_player.6I1GUPMyzd3.6n27FG3i1lZ" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.68DZN4hd2vw" displaytext="Materi" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.68DZN4hd2vw.5tYC1f8XPBC" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6O5t8glz8yn" displaytext="Translasi" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6O5t8glz8yn.5ozB3syh3lV" displaytext="Translasi_Titik" expand="false" type="slide" />
-            <slidelink slideid="_player.6O5t8glz8yn.614hYhnLjlN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O5t8glz8yn.6Pq3101EptL" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O5t8glz8yn.5hMz1X2v6UH" displaytext="Translasi Bangun" expand="false" type="slide" />
-            <slidelink slideid="_player.6O5t8glz8yn.5ffezBjRmxC" displaytext="Untittled" expand="false" type="slide" />
-            <slidelink slideid="_player.6O5t8glz8yn.6N4Vz0R1RhI" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O5t8glz8yn.5zil8QubMc7" displaytext="Translasi Garis" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5uF9cDdJnAw" displaytext="Evaluasi" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5uF9cDdJnAw.62GsxN38FLt" displaytext="Evaluasi" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.5vNRiixTNfT" displaytext="Pasangkan titik awal dengan hasil refleksinya" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.5X03csQdSty" displaytext="SOAL 7" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.5lD0LmI3e7y" displaytext="SOAL 4" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.64ndsdU2Tu7" displaytext="SOAL 5" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.6qFCX4wphc3" displaytext="SOAL 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.6l4ynWs1b2D" displaytext="SOAL 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.5hqVa0xNi9f" displaytext="SOAL 3" expand="false" type="slide" />
-            <slidelink slideid="_player.5uF9cDdJnAw.6gN3wqKOsg1" displaytext="SOAL 6" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5sOHOYTXI6K" displaytext="Games" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5sOHOYTXI6K.5wr6IzgStTp" displaytext="Games" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6Igdo2hJmHQ" displaytext="CP &amp;amp; TP" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6Igdo2hJmHQ.6lW5hmAEERb" displaytext="CP &amp;amp; TP" expand="false" type="slide" />
-            <slidelink slideid="_player.6Igdo2hJmHQ.6oJmDVsDbrm" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Igdo2hJmHQ.5mSGRDV606t" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6M4BGMzF1rH" displaytext="Peta Konsep" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6M4BGMzF1rH.5z3lhy0g5Pk" displaytext="Peta Konsep" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6FE62kQaV63" displaytext="Video Pembelajaran" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6FE62kQaV63.6KdMtMr4mYq" displaytext="Video" expand="false" type="slide" />
-            <slidelink slideid="_player.6FE62kQaV63.6eF9yqm4mhT" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6FE62kQaV63.6FuL1HU0Atr" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6XJBWh3if41" displaytext="Buku" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6XJBWh3if41.6nOxnkfUNce" displaytext="Buku" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5kX399W0GmG" displaytext="Profil Pengembang" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5kX399W0GmG.66X6V5H15KQ" displaytext="Profil" expand="false" type="slide" />
-            <slidelink slideid="_player.5kX399W0GmG.6ORpOTlKOTt" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6bf3Q0eOP1I" displaytext="Refleksi" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6bf3Q0eOP1I.6eoHmFbPlRi" displaytext="Refleksi x, y, (0,0)" expand="false" type="slide" />
-            <slidelink slideid="_player.6bf3Q0eOP1I.6muu0BcRIaA" displaytext="Refleksi x=y, x=-y" expand="false" type="slide" />
-            <slidelink slideid="_player.6bf3Q0eOP1I.5mhIJKV5HOq" displaytext="Refleksi x=h, y=h" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5pMQPP7eNur" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6dUc73d13BV" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5lX6o2M5DOn" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6bJUxHGxJ44" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6VU28lvTjsh" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6QNpAxInkk0" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6lWMUhZRZ2G" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6BBS4cke1ri" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6b8UEPUzupt" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6qCOROMyzii" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.61xO6YGdq6h" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6FzgPikvH9w" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.69BD7drcFwC" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6heepzeuwPe" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5sIvrvVkhk9" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6BqzZvE1Srh" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.621NeF5EIVM" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6S3IpmN0LZY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6Da9qzpddwL" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6BoMMrQQjDx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5t27xQEZ1lv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6QI3azpOwfx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5YKSxGEOMZs" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6He8Lbgs1mO" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5jV7VU8vsd4" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5q12YyGK5R8" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5jpaVP5x81a" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5qAAuI30ytU" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5ViwxNXsotT" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6djdUsIK2wC" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.5fx2jKGJdqa" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6Imj3PaQucT" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67girV5TAwT.6WPjOa4oPaS" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
